@@ -4,6 +4,13 @@
 [![pre-commit](https://img.shields.io/badge/pre--commit-enabled-brightgreen?logo=pre-commit)](https://github.com/pre-commit/pre-commit)
 [![Code style: Ruff](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/astral-sh/ruff/main/assets/badge/v2.json)](https://github.com/astral-sh/ruff)
 
+> [!NOTE]
+> This copy lives at `matthewpeters-extended/rag-chatbot` as an unmodified clone of the
+> original project by Umberto Griffo, kept here so I could study a real Retrieval Augmented
+> Generation architecture end to end. Nothing below this note was written by me. See the
+> original repository at https://github.com/umbertogriffo/rag-chatbot for the source of
+> truth, and `LICENSE` for the Apache 2.0 terms it is distributed under.
+
 Check out the todo list to see the next steps and improvements we want to implement in this project [here](notes/todo.md).
 
 > [!IMPORTANT]
